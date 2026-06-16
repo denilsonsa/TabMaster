@@ -56,7 +56,7 @@ Example: Inverting a `Collection` filter would cause it to include any apps **no
 Filters apps based on if they are included in the collection.
 
 **Example:**<br/>
-<img title="Collection Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_collection-example.png" />
+<img title="Collection Example" src="../../../../assets/filters/docs_collection-example.png" />
 
 <br/>
 
@@ -69,7 +69,7 @@ Filters apps based on if they are included in the collection.
 Filters apps based on their install state.
 
 **Example:**<br/>
-<img title="Installed Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_installed-example.png" />
+<img title="Installed Example" src="../../../../assets/filters/docs_installed-example.png" />
 
 <br/>
 
@@ -87,7 +87,7 @@ Regular expressions can seem daunting and confusing. You can test yours before h
 Also, by typing a phrase like "Zelda" into the regex field, it will include any game with that phrase in its title.
 
 **Example:**<br/>
-<img title="Regex Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_regex-example.png" />
+<img title="Regex Example" src="../../../../assets/filters/docs_regex-example.png" />
 
 <br/>
 
@@ -104,7 +104,7 @@ Also, by typing a phrase like "Zelda" into the regex field, it will include any 
 - `or`: Filters apps based on if they are owned by any listed friend.
 
 **Example:**<br/>
-<img title="Friends Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_friends-example.png" />
+<img title="Friends Example" src="../../../../assets/filters/docs_friends-example.png" />
 
 <br/>
 
@@ -121,7 +121,7 @@ Also, by typing a phrase like "Zelda" into the regex field, it will include any 
 - `or`: Filters apps based on if they have any listed tag.
 
 **Example:**<br/>
-<img title="Tags Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_tags-example.png" />
+<img title="Tags Example" src="../../../../assets/filters/docs_tags-example.png" />
 
 <br/>
 
@@ -134,7 +134,7 @@ Also, by typing a phrase like "Zelda" into the regex field, it will include any 
 Filters apps by if they are in the list.
 
 **Example:**<br/>
-<img title="Whitelist Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_whitelist-example.png" />
+<img title="Whitelist Example" src="../../../../assets/filters/docs_whitelist-example.png" />
 
 <br/>
 
@@ -147,7 +147,7 @@ Filters apps by if they are in the list.
 Filters apps by if they are not in the list.
 
 **Example:**<br/>
-<img title="Blacklist Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_blacklist-example.png" />
+<img title="Blacklist Example" src="../../../../assets/filters/docs_blacklist-example.png" />
 
 <br/>
 
@@ -165,7 +165,7 @@ Groups a set of filters, allowing you to change the logic mode for smaller sets 
 By grouping filters you are able to specify the mode for filters in the group seperately, significantly increasing the utility of TabMaster
 
 **Example:**<br/>
-<img title="Merge Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_merge-example.png" />
+<img title="Merge Example" src="../../../../assets/filters/docs_merge-example.png" />
 
 <br/>
 
@@ -178,7 +178,7 @@ By grouping filters you are able to specify the mode for filters in the group se
 Filters apps based on their platform.
 
 **Example:**<br/>
-<img title="Platform Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_platform-example.png" />
+<img title="Platform Example" src="../../../../assets/filters/docs_platform-example.png" />
 
 <br/>
 
@@ -192,7 +192,7 @@ Filters apps based on their platform.
 Filters apps based on their Steam Deck ccompatibility.
 
 **Example:**<br/>
-<img title="Deck Compat Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_deck-compat-example.png" />
+<img title="Deck Compat Example" src="../../../../assets/filters/docs_deck-compat-example.png" />
 
 <br/>
 
@@ -206,7 +206,7 @@ Filters apps based on their Steam Deck ccompatibility.
 Filters apps based on their SteamOS Deck ccompatibility.
 
 **Example:**<br/>
-<img title="SteamOS Compat Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_steamos-compat-example.png" />
+<img title="SteamOS Compat Example" src="../../../../assets/filters/docs_steamos-compat-example.png" />
 
 <br/>
 
@@ -221,7 +221,7 @@ Filters apps based on their SteamOS Deck ccompatibility.
 Filters apps based on their review score.
 
 **Example:**<br/>
-<img title="Review Score Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_review-score-example.png" />
+<img title="Review Score Example" src="../../../../assets/filters/docs_review-score-example.png" />
 
 <br/>
 
@@ -236,7 +236,7 @@ Filters apps based on their review score.
 Filters apps based on your time spent playing them.
 
 **Example:**<br/>
-<img title="Time Played Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_time-played-example.png" />
+<img title="Time Played Example" src="../../../../assets/filters/docs_time-played-example.png" />
 
 <br/>
 
@@ -250,7 +250,7 @@ Filters apps based on your time spent playing them.
 Filters apps based on their size.
 
 **Example:**<br/>
-<img title="Size on Disk Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_size-on-disk-example.png" />
+<img title="Size on Disk Example" src="../../../../assets/filters/docs_size-on-disk-example.png" />
 
 <br/>
 
@@ -265,7 +265,7 @@ Filters apps based on their size.
 Filters apps based on their release date.
 
 **Example:**<br/>
-<img title="Release Date Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_release-date-example.png" />
+<img title="Release Date Example" src="../../../../assets/filters/docs_release-date-example.png" />
 
 <br/>
 
@@ -280,7 +280,7 @@ Filters apps based on their release date.
 Filters apps based on their purchase date.
 
 **Example:**<br/>
-<img title="Purchase Date Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_purchase-date-example.png" />
+<img title="Purchase Date Example" src="../../../../assets/filters/docs_purchase-date-example.png" />
 
 <br/>
 
@@ -295,7 +295,7 @@ Filters apps based on their purchase date.
 Filters apps based on when they were last played.
 
 **Example:**<br/>
-<img title="Last Played Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_last-played-example.png" />
+<img title="Last Played Example" src="../../../../assets/filters/docs_last-played-example.png" />
 
 <br/>
 
@@ -308,7 +308,7 @@ Filters apps based on when they were last played.
 Filters apps based on if they are a shared by a family member or not.
 
 **Example:**<br/>
-<img title="Family Sharing Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_family-sharing-example.png" />
+<img title="Family Sharing Example" src="../../../../assets/filters/docs_family-sharing-example.png" />
 
 <br/>
 
@@ -321,7 +321,7 @@ Filters apps based on if they are a shared by a family member or not.
 Filters apps based on if they are a demo or not.
 
 **Example:**<br/>
-<img title="Demo Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_demo-example.png" />
+<img title="Demo Example" src="../../../../assets/filters/docs_demo-example.png" />
 
 <br/>
 
@@ -334,7 +334,7 @@ Filters apps based on if they are a demo or not.
 Filters apps based on if they are a coming soon or not.
 
 **Example:**<br/>
-<img title="Coming Soon Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_coming-soon-example.png" />
+<img title="Coming Soon Example" src="../../../../assets/filters/docs_coming-soon-example.png" />
 
 <br/>
 
@@ -347,7 +347,7 @@ Filters apps based on if they are a coming soon or not.
 Filters apps based on if they can be streamed or not.
 
 **Example:**<br/>
-<img title="Streamable Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_streamable-example.png" />
+<img title="Streamable Example" src="../../../../assets/filters/docs_streamable-example.png" />
 
 <br/>
 
@@ -364,7 +364,7 @@ Filters apps based on if they can be streamed or not.
 - `or`: Filters apps based on if they have any listed features.
 
 **Example:**<br/>
-<img title="Steam Features Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_steam-features-example.png" />
+<img title="Steam Features Example" src="../../../../assets/filters/docs_steam-features-example.png" />
 
 <br/>
 
@@ -379,7 +379,7 @@ Filters apps based on if they can be streamed or not.
 Filters apps based on their achievement completion percentage or count.
 
 **Example:**<br/>
-<img title="Achievements Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_achievements-example.png" />
+<img title="Achievements Example" src="../../../../assets/filters/docs_achievements-example.png" />
 
 <br/>
 
@@ -393,7 +393,7 @@ Filters apps based on their achievement completion percentage or count.
 Filters apps based on if they are installed on the specified MicroSD card.
 
 **Example:**<br/>
-<img title="MicroSD Card Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_microsd-card-example.png" />
+<img title="MicroSD Card Example" src="../../../../assets/filters/docs_microsd-card-example.png" />
 
 <br/>
 
@@ -406,7 +406,7 @@ Filters apps based on if they are installed on the specified MicroSD card.
 Filters apps based on if they are installed in the specified Steam Install Folder.
 
 **Example:**<br/>
-<img title="Install Folder Example" src="https://raw.githubusercontent.com/tormak9970/TabMaster/master/assets/filters/docs_install-folder-example.png" />
+<img title="Install Folder Example" src="../../../../assets/filters/docs_install-folder-example.png" />
 
 <br/>
 
